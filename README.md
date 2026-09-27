@@ -1,5 +1,5 @@
 # amazon-ml-challenge
-````markdown
+
 # Entity Resolution & Record Linkage
 
 A high-precision machine learning pipeline for matching records representing the same real-world entity across multiple data sources.
